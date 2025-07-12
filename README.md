@@ -31,7 +31,7 @@ This project analyzes e-commerce retail data to uncover sales trends, product pe
 📌 **Smoothed 7-Day Revenue Trend + KPIs Dashboard**
 
 ![Dashboard Preview]
-(<img width="1276" height="714" alt="sales_dash_2" src="https://github.com/user-attachments/assets/f4c72132-3af4-4584-b221-a90c87a406c8" />)
+<img width="1276" height="714" alt="sales_dash_2" src="https://github.com/user-attachments/assets/f4c72132-3af4-4584-b221-a90c87a406c8" />
 
 ---
 
